@@ -16,7 +16,7 @@ Main -
 
 Random Board - 
 
-![Random_board_AdobeExpress](https://user-images.githubusercontent.com/87577792/180676878-60ef3a70-aa7e-48ea-a529-9ef61c94dc5e.gif)
+![Random_board_AdobeExpress](https://user-images.githubusercontent.com/87577792/180677380-e501f363-9575-45e5-99c4-cd98394c3f69.gif)
 
 Play -
 
